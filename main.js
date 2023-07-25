@@ -1,3 +1,3 @@
-const world 'hello'
+const world ='Hello'
 console.log(world)
 
